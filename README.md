@@ -1,2 +1,2 @@
 # PM-Portfolio
-![Image description](./path/to/your/course1.jpg)
+![Image description](./Users/blair2022/Desktop/course1.jpg)
